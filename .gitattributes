@@ -6,3 +6,4 @@ pascal/data/data_600.pkl filter=lfs diff=lfs merge=lfs -text
 pascal/logs/mask_rcnn_pascal.h5 filter=lfs diff=lfs merge=lfs -text
 mask_rcnn_coco.h5 filter=lfs diff=lfs merge=lfs -text
 pascal/logs/pascal20181208T1327/mask_rcnn_pascal_0060.h5 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
