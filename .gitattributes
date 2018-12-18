@@ -1,2 +1,5 @@
 train_pascal.ipynb filter=lfs diff=lfs merge=lfs -text
 pascal/data/data_200.pkl filter=lfs diff=lfs merge=lfs -text
+pascal/data/data_400.pkl filter=lfs diff=lfs merge=lfs -text
+pascal/data/data_631.pkl filter=lfs diff=lfs merge=lfs -text
+pascal/data/data_600.pkl filter=lfs diff=lfs merge=lfs -text
